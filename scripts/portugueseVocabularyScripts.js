@@ -1,4 +1,3 @@
-
     (function() {
       var _app = document.getElementById('app');
       if (_app) _app.innerHTML = `
@@ -1013,7 +1012,7 @@
       COMPETITIVE_KEY = 'pv_competitive_won';
 
 
-    var APP_VERSION = 'v8.7.3';
+    var APP_VERSION = '8.7.3';
     var LAST_SEEN_VERSION_KEY = 'pv_last_seen_version';
     var CHANGELOG_URL = '';
 
