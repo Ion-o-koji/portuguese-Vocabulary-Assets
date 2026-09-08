@@ -1071,7 +1071,7 @@
       COMPETITIVE_KEY = 'pv_competitive_won';
 
 
-    var APP_VERSION = '8.8.0';
+    var APP_VERSION = '8.7.9';
     var LAST_SEEN_VERSION_KEY = 'pv_last_seen_version';
     var CHANGELOG_URL = '';
 
