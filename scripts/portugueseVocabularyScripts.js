@@ -1303,7 +1303,7 @@
     var LAST_SEEN_VERSION_KEY = 'pv_last_seen_version';
     var CHANGELOG_URL = 'https://docs.google.com/document/d/1ynpcFYYxTFDjj9exho4jvJZeWI55VQJDmJutVzQgH30/edit?usp=drivesdk';
 
-    var SCRIPT_URL = ls(URL_KEY) || 'https://script.google.com/macros/s/AKfycbyElkBingyl3D1uEg6_Io4oNcQfm_8m862m8O_nGEam5-AMX6ET4eza2Wk1QDbbI0mm/exec';
+    var SCRIPT_URL = ls(URL_KEY) || 'https://script.google.com/macros/s/AKfycbx0F8soPyh9VsDiouXH5kUHdwG4nZ57k9bd6ajyHCK1aoWB6MhJeH3sDUfbL_mc5cOf/exec';
 
 
     var ADMIN_USER = 'Porter Olsen';
